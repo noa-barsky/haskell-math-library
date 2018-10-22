@@ -1,5 +1,5 @@
 # Haskell Math Library
-### March 20th, 2018 :dash:
+### March 20th, 2018
 
 
 ## Overview
@@ -33,5 +33,5 @@ Unfortunately, while doing this project I ran out of time and I did not get to c
 3. The outline of the modules some parts of the parser work I used Curtis D’alves course material, see that [here](http://www.cas.mcmaster.ca/~dalvescb/#outline-container-org2a5d6f3)
 
 ---
-Documentation and Library by *Noa Barsky* :information_desk_person:
+Documentation and Library by *Noa Barsky*
 
