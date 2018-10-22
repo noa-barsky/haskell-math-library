@@ -2,7 +2,7 @@
 
 
 ## Overview
-The following is a math library made in Haskell for my CS1XA3 class at McMaster University which is intended to help with calculus homework. Full documentation [here](https://barskyn.github.io/CS1XA3/) 
+The following is a math library made in Haskell for my CS1XA3 class at McMaster University which is intended to help with calculus homework. Full documentation [here](https://noa-barsky.github.io/haskell-math-library/) 
 #### As such it can do the following:
 1. Perform partial (or full differentiation)
 2. Evaluate expressions
