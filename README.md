@@ -1,5 +1,4 @@
 # Haskell Math Library
-### March 20th, 2018
 
 
 ## Overview
